@@ -1,0 +1,13 @@
+.img1 {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    justify-self: center;
+
+    border-radius: 5px;
+}
+.IBody {
+    margin: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* border: 1px solid black; */
+}
